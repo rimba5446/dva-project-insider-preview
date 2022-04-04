@@ -16,6 +16,10 @@ Password : 123
 Username : Manajer
 Password : 123
 
+# Waiter
+Username : waiter
+Password : 123
+
 # Admin
 Username : admin
 Password : 123
