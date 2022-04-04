@@ -1,5 +1,5 @@
-# dva-project-insider-preview
-# Project Uji Kompetensi Kejuruan Rpl 2022
+# DVA PROJECT INSIDER PREVIEW
+# DVA PROJECT UKOM XII RPL By RaykujanK13
 
 - Used bootstrap & PHP Native
 
@@ -23,6 +23,3 @@ Password : 123
 # Admin
 Username : admin
 Password : 123
-
-
-<center>DVA PROJECT UKOM XII RPL By RaykujanK13</center>
